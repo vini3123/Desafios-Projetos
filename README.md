@@ -26,7 +26,7 @@ Meu objetivo é me tornar um profissional completo, capaz de integrar conhecimen
 
 #Pronomes: Ele/Dele
 
-#email: viniciusgoncalves.3123@gmail.com
+<img=src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> #email: viniciusgoncalves.3123@gmail.com
 
 #Estudando: Atualmente na UNISANTA
 
