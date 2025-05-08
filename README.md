@@ -33,4 +33,4 @@ Meu objetivo é me tornar um profissional completo, capaz de integrar conhecimen
 
 
 
-![snake animation](https://github.com/vini2767/vini2767/blob/output/github-contribution-grid-snake2.svg)
+
