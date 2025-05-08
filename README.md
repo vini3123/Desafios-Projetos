@@ -27,7 +27,10 @@ Meu objetivo é me tornar um profissional completo, capaz de integrar conhecimen
 #Pronomes: Ele/Dele
 #email: viniciusgoncalves.3123@gmail.com
 #Estudando: Atualmente na UNISANTA
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)">
+
+
+
 
 <img src="https://www.serventuarios.org.br/wp-content/uploads/2022/03/unisanta.jpg">
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-clemente-de-ara%C3%BAjo-965363349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)">
