@@ -1,5 +1,3 @@
-#feedback7DoC
-
 Sou um estudante de Sistemas de Informação apaixonado por tecnologia e inovação. Desde cedo, desenvolvi um grande interesse por soluções digitais e como elas podem transformar negócios e melhorar a vida das pessoas. Durante a graduação, tenho me dedicado a adquirir conhecimentos em áreas como desenvolvimento de software, banco de dados, redes de computadores, gestão de projetos e análise de sistemas.  
 
 Falo inglês fluente, espanhol  e estou estudando japonês. 
