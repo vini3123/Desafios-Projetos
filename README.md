@@ -33,6 +33,13 @@ Meu objetivo é me tornar um profissional completo, capaz de integrar conhecimen
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-clemente-de-ara%C3%BAjo-965363349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/200px-C_Sharp_Logo_2023.svg.png">
+<img src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_MySQL_600x400%402x-1_0.png">
+<img src="https://www.freecodecamp.org/portuguese/news/content/images/2024/07/git-github.png">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbmTQFVQF7kc2VnBvzq6LXju5LRrLdp4Wuw&s">
+<img src="https://logospng.org/wp-content/uploads/node-js.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">
+<img src="https://www.luiztools.com.br/wp-content/uploads/2017/09/mongodb-logo-rgb-j6w271g1xn-1024x270.jpg">
