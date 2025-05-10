@@ -33,14 +33,15 @@ Meu objetivo é me tornar um profissional completo, capaz de integrar conhecimen
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-clemente-de-ara%C3%BAjo-965363349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-<img width = 320 height = 240 src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg">
-<img width = 320 height = 240 src="https://i.pinimg.com/474x/cc/2a/d1/cc2ad105c2818e224bfb3bafb480e659.jpg">
-<img width = 320 height = 240 src="https://images.icon-icons.com/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png">
-<img width = 320 height = 240 src="https://img.icons8.com/color/512/html-5.png">
-<img width = 320 height = 240 src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
-<img width = 320 height = 240 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s">
-<img width = 320 height = 240 src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-<img width = 320 height = 240 src="https://i.pinimg.com/736x/4d/fc/38/4dfc38802784bcf687f616e7e5a4370c.jpg">
-<img width = 320 height = 240 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzPDTaNZlXTC9nrUkXYIqMvS_LfCwTFkWb6g&s">
-<img width = 320 height = 240 src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png">
+<img width = 100 height = 100 src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg">
+<img width = 100 height = 100 src="https://i.pinimg.com/474x/cc/2a/d1/cc2ad105c2818e224bfb3bafb480e659.jpg">
+<img width = 100 height = 100 src="https://images.icon-icons.com/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png">
+<img width = 100 height = 100 src="https://img.icons8.com/color/512/html-5.png">
+<img width = 100 height = 100 src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
+<img width = 100 height = 100 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s">
+<img width = 100 height = 100 src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+<img width = 100 height = 100 src="https://i.pinimg.com/736x/4d/fc/38/4dfc38802784bcf687f616e7e5a4370c.jpg">
+<img width = 100 height = 100 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzPDTaNZlXTC9nrUkXYIqMvS_LfCwTFkWb6g&s">
+<img width = 100 height = 100 src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png">
+
 
