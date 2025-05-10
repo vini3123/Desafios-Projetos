@@ -33,7 +33,7 @@ Meu objetivo é me tornar um profissional completo, capaz de integrar conhecimen
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-clemente-de-ara%C3%BAjo-965363349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
-<img width = 640 height = 480 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/200px-C_Sharp_Logo_2023.svg.png">
+<img width = 640 height = 480 src="https://i.etsystatic.com/15916583/r/il/e0385c/4160467068/il_570xN.4160467068_2azw.jpg">
 <img width = 640 height = 480 src="https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_MySQL_600x400%402x-1_0.png">
 <img width = 640 height = 480 src="https://www.freecodecamp.org/portuguese/news/content/images/2024/07/git-github.png">
 <img width = 640 height = 480 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s">
