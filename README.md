@@ -29,7 +29,7 @@ Meu objetivo é me tornar um profissional completo, capaz de integrar conhecimen
 #Estudando: Atualmente na UNISANTA
 
 
-<img width = 640 height = 480 src="https://www.serventuarios.org.br/wp-content/uploads/2022/03/unisanta.jpg">
+<img width = 540 height = 480 src="https://www.serventuarios.org.br/wp-content/uploads/2022/03/unisanta.jpg">
 
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-clemente-de-ara%C3%BAjo-965363349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
