@@ -49,7 +49,7 @@ Atualmente, sou estudante na UNISANTA.
 
 ## Conecte-se comigo!
 
-Conecte-se comigo no Linkedin <img width="40" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><link href="https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-clemente-de-ara%C3%BAjo-965363349/">
+Conecte-se comigo no Linkedin <img width="40" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> [Conecte-se comigo aqui](https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-clemente-de-ara%C3%BAjo-965363349/)
 
 ## Tecnologias e Ferramentas usadas
 
