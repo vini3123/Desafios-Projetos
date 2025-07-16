@@ -11,7 +11,7 @@
 </p>
 
 - Estudante de Sistemas de Informação na UNISANTA
-- **Desenvolvedor Full Stack em formação
+- Desenvolvedor Full Stack em formação
 - Atualmente aprendendo: Machine Learning e React Native
 - Meus Objetivos: Criar soluções tecnológicas que impactem positivamente a sociedade
 - Onde me encontrar: [viniciusgoncalves.3123@gmail.com](mailto:viniciusgoncalves.3123@gmail.com)
