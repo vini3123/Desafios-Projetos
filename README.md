@@ -45,7 +45,7 @@
 ## Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/viniciusgoncalves">
+  <a href="https://github.com/vini3123">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini3123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini3123&layout=compact&langs_count=7&theme=dracula"/>
   </a>
@@ -60,18 +60,18 @@
 Segue o link nesse repositório:
 https://github.com/vini3123/Desafios-Projetos
 
-## 🌐 Idiomas
+## Idiomas
 
 - **Português** - Nativo
 - **Inglês** - Fluente
 - **Espanhol** - Fluente
 - **Japonês** - Básico (Estudando)
 
-## 📫 Conecte-se Comigo!
+## Conecte-se Comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-gon%C3%A7alves-clemente-de-ara%C3%BAjo-965363349/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusgoncalves.3123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniciusgoncalves)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vini3123)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=viniciusgoncalves&style=flat-square&color=blue" alt="Visualizações do perfil"/>
