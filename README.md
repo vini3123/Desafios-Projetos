@@ -1,4 +1,4 @@
-# Olá, eu sou o Vinícius Gonçalves! 👋
+# Olá, eu sou o Vinícius Gonçalves!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil!&fontSize=30&fontAlignY=35&animation=fadeIn"/>
@@ -53,7 +53,7 @@
 
 ## Linha do Tempo de Contribuição
 
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=viniciusgoncalves&theme=github-dark&hide_border=true&area=true)
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=vini3123&theme=github-dark&hide_border=true&area=true)
 
 ## Onde baixar os projetos
 
